@@ -1,0 +1,6 @@
+pdf-engine: xelatex
+filters:
+  - mermaid-filter
+variables:
+  CJKmainfont: KaiTi
+  CJKoptions: BoldFont=STHeiti,ItalicFont=STKaiti
