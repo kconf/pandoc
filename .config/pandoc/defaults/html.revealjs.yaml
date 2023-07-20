@@ -1,0 +1,6 @@
+to: revealjs
+standalone: true
+filters:
+  - mermaid-filter
+variables:
+  theme: white
